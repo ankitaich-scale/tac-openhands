@@ -1,0 +1,34 @@
+
+SUMMARY OF CORRECTIONS AND ANSWERS:
+
+1. MISSING VALUES FIXED:
+   - Replaced 24 'x' values with '0' in the data sheet
+   - These were missing values in various crop area measurements across different provinces
+
+2. QUESTIONS ANSWERED:
+
+   Q1: How many acres of fenugreek are reported in 2016?
+   A1: 2809 acres
+
+   Q2: For fenugreek area, how many percent of crop area was reported in Saskatchewan?
+   A2: 100.00% (Formula: =J5/B5)
+
+   Q3: What fraction of the crop area devoted to garlic was in Quebec?
+   A3: 0.2637 (Formula: =G16/B16)
+
+   Q4: Which sector has a slighter higher proportion of crop area devoted to garlic? Quebec or British Columbia?
+   A4: Quebec (582 acres vs 485 acres for BC)
+
+   Q5: How many percent of the crop area devoted to garlic was in British Columbia?
+   A5: 21.98% (Formula: =L16/B16)
+
+   Q6: Which country had the largest area of garlic crop production?
+   A6: Ontario (976 acres)
+
+   Q7: What percentage of the 2207 acres of garlic in Canada is reported by farms in Ontario?
+   A7: 44.22% (Formula: =H16/B16)
+
+   Q8: What percentage of the 1776 acres of sweet potatoes reported were located in Ontario?
+   A8: 98.82% (Formula: =H18/B18)
+
+All formulas have been entered in the corresponding answer cells for automatic calculation.
